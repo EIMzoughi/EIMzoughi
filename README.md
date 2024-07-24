@@ -1,4 +1,4 @@
-## Hi there 👋
+## "Life is a game – you’d better learn how to play!" -- Randy Pausch
 
 👋 Hello, I'm Mohamed Khalil Mzoughi
 
