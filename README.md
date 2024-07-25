@@ -17,7 +17,7 @@ I'm interested in various topics, so I'm developing various side projects in my 
 
 [![ElMzoughi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MzoughiKhalil&show_icons=true&theme=dracula)](https://github.com/Mzoughikhalil)
 
-🌱 I’m currently learning
+### 🌱 I’m currently learning
 * Languages: Modern C++, C#, Python, Java , javascript, F#
 * Topics #1: Game Physics, Game Simulation, Game Engine
 * Topics #2: Compiler/Interpreter, Reinforcement Learning, Deep Learning
