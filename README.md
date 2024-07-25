@@ -10,7 +10,7 @@ I'm interested in various topics, so I'm developing various side projects in my 
 * Advanced Character mechanics: Enhancing Unreal Engine ALS with Additional Features
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mzoughikhalil)](https://github.com/Mzoughikhalil)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mzoughi.medkhalil22@gmail.com)](mzoughi.medkhalil22@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mzoughi.medkhalil22@gmail.com)](mailto:mzoughi.medkhalil22@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-khalil-mzoughi)](https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=MzoughiKhalil&theme=calm)](https://github.com/Mzoughikhalil)
