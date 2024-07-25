@@ -5,10 +5,9 @@
 👋 Hello, I'm Mohamed Khalil Mzoughi. I'currently a fresh game developer graduiated stuident from ISAMM (Higher Institute of Arts and Multimedia Manouba). I'm currently working on making verious personal projects, developing games, tools, softwares.
 
 I'm interested in various topics, so I'm developing various side projects in my spare time.
-
-Chess: Chess Simulator Using Unity C# 
-Project Precision: a top-down bullet hell game that focuses on precise movements and dodging mechanics.
-Advanced Character mechanics: Enhancing Unreal Engine ALS with Additional Features
+* Chess: Chess Simulator Using Unity C# 
+* Project Precision: a top-down bullet hell game that focuses on precise movements and dodging mechanics.
+* Advanced Character mechanics: Enhancing Unreal Engine ALS with Additional Features
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MzoughiKhalil)](https://github.com/anuraghazra/github-readme-stats)
