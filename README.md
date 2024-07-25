@@ -2,7 +2,7 @@
 
 ### Mohamed Khalil Mzoughi -- @ElMzoughi
 
-👋 Hello, I'm Mohamed Khalil Mzoughi. I'currently a fresh game developer graduiated stuident from ISAMM (Higher Institute of Arts and Multimedia Manouba). I'm currently working on making verious personal projects, developing games, tools, softwares.
+👋 Hello, I'm Mohamed Khalil Mzoughi. I'm currently a fresh game development graduate from ISAMM (Higher Institute of Arts and Multimedia Manouba). I'm working on various personal projects, developing games, tools, and software.
 
 I'm interested in various topics, so I'm developing various side projects in my spare time.
 * Chess: Chess Simulator Using Unity C# 
