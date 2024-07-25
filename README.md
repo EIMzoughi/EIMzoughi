@@ -9,7 +9,7 @@ I'm interested in various topics, so I'm developing various side projects in my 
 * Project Precision: a top-down bullet hell game that focuses on precise movements and dodging mechanics.
 * Advanced Character mechanics: Enhancing Unreal Engine ALS with Additional Features
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MzoughiKhalil)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MzoughiKhalil)](https://github.com/anuraghazra/github-readme-stats)
 
 🌱 I’m currently learning
