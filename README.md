@@ -9,13 +9,13 @@ I'm interested in various topics, so I'm developing various side projects in my 
 * Project Precision: a top-down bullet hell game that focuses on precise movements and dodging mechanics.
 * Advanced Character mechanics: Enhancing Unreal Engine ALS with Additional Features
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Mzoughikhalil)](https://github.com/Mzoughikhalil)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EIMzoughi)](https://github.com/EIMzoughi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mzoughi.medkhalil22@gmail.com)](mailto:mzoughi.medkhalil22@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-khalil-mzoughi)](https://www.linkedin.com/in/chan-ho-ohk-3a902a80/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elmzoughi)](https://www.linkedin.com/in/elmzoughi/)
 
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=MzoughiKhalil&theme=calm)](https://github.com/Mzoughikhalil)
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=EIMzoughi&theme=calm)](https://github.com/EIMzoughi)
 
-[![ElMzoughi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MzoughiKhalil&show_icons=true&theme=dracula)](https://github.com/Mzoughikhalil)
+[![ElMzoughi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EIMzoughi&show_icons=true&theme=dracula)](https://github.com/Mzoughikhalil)
 
 ### 🌱 I’m currently learning
 * Languages: Modern C++, C#, Python, Java , javascript, F#
