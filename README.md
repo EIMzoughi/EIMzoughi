@@ -21,4 +21,4 @@ I'm interested in various topics, so I'm developing various side projects in my 
 * Languages: Modern C++, C#, Python, Java , javascript, F#
 * Topics #1: Game Physics, Game Simulation, Game Engine
 * Topics #2: Compiler/Interpreter, Reinforcement Learning, Deep Learning
-* Topics #3: design patterns, solid principles, functional programming, Multithreading
+* Topics #3: Design Patterns, SOLID Principles, Functional Programming, Multithreading, Data-Oriented Programming/ECS
