@@ -8,6 +8,8 @@ I'm interested in various topics, so I'm developing various side projects in my 
 * Chess: Chess Simulator Using Unity C# 
 * Project Precision: a top-down bullet hell game that focuses on precise movements and dodging mechanics.
 * Advanced Character mechanics: Enhancing Unreal Engine ALS with Additional Features
+
+  - [Repository for Curriculum Vitae](https://github.com/EIMzoughi/CV)
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EIMzoughi)](https://github.com/EIMzoughi)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mzoughi.medkhalil22@gmail.com)](mailto:mzoughi.medkhalil22@gmail.com)
