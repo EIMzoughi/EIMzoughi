@@ -15,7 +15,7 @@ I'm interested in various topics, so I'm developing various side projects in my 
 
 [![streak](https://github-readme-streak-stats.herokuapp.com/?user=EIMzoughi&theme=calm)](https://github.com/EIMzoughi)
 
-[![ElMzoughi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EIMzoughi&show_icons=true&theme=dracula)](https://github.com/Mzoughikhalil)
+[![ElMzoughi's GitHub stats](https://github-readme-stats.vercel.app/api?username=EIMzoughi&show_icons=true&theme=dracula)](https://github.com/EIMzoughi)
 
 ### 🌱 I’m currently learning
 * Languages: Modern C++, C#, Python, Java , javascript, F#
